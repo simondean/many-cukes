@@ -1,0 +1,15 @@
+{
+
+  "main":"com.mycompany.myproject.PingVerticle",
+
+  "description":"Executes Cucumber features in parallel across multiple instances of Cucumber",
+  "licenses": ["The Apache Software License Version 2.0"],
+  "author": "Simon Dean",
+
+  "developers": [],
+  "keywords": ["cucumber", "parallel", "testing"],
+  "homepage": "https://github.com/simondean/many-cukes",
+
+  "auto-redeploy": true
+
+}
